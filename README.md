@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving my data visualisation skills.
+- 🔭 Tech Stack: Python, PowerBI, SQL, Excel, Jupyter, Pandas, Numpy, Matplotlib, Streamlit, Web Scraping.
 - 🌱 I’m currently learning web scraping and machine learning.
 - 👯 I’m looking to collaborate on data analytics projects.
 - 💬 Ask me about Python and PowerBI.
