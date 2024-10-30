@@ -16,6 +16,7 @@ I got motivated to go on a data analysis journey because of the sheer scope of t
 
 - ⚡ Fun fact **I used to solve Rubik's cube under 30 seconds**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sriyanshumishra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriyanshumishra01" height="30" width="40" /></a>
