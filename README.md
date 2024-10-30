@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriyanshu01&label=Profile%20views&color=0e75b6&style=flat" alt="sriyanshu01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriyanshu01" alt="sriyanshu01" /></a> </p>
+I got motivated to go on a data analysis journey because of the sheer scope of the data analysis available in almost all sectors in this era. I have the potential to make or break businesses and organisations.
 
 - 🌱 I’m currently learning **Web Scraping and Machine Learning.**
 
